@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "이중 포인터 변수의 활용", "이중 포인터 변수의 활용\이중 포인터 변수의 활용.vcxproj", "{B7C9666A-B67A-4152-A2B4-EF32E57A8699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Debug|x64.ActiveCfg = Debug|x64
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Debug|x64.Build.0 = Debug|x64
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Debug|x86.Build.0 = Debug|Win32
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Release|x64.ActiveCfg = Release|x64
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Release|x64.Build.0 = Release|x64
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Release|x86.ActiveCfg = Release|Win32
+		{B7C9666A-B67A-4152-A2B4-EF32E57A8699}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A645CAC3-F4F4-4D40-B8CA-6AC04FC4EA93}
+	EndGlobalSection
+EndGlobal

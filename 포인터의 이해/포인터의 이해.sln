@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터의 이해", "포인터의 이해\포인터의 이해.vcxproj", "{802AC287-4F47-454C-816E-89F7123F7C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Debug|x64.ActiveCfg = Debug|x64
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Debug|x64.Build.0 = Debug|x64
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Debug|x86.ActiveCfg = Debug|Win32
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Debug|x86.Build.0 = Debug|Win32
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Release|x64.ActiveCfg = Release|x64
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Release|x64.Build.0 = Release|x64
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Release|x86.ActiveCfg = Release|Win32
+		{802AC287-4F47-454C-816E-89F7123F7C97}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0D2C03A-793B-4130-8981-D7493C4D0CA7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static 변수의 활용", "static 변수의 활용\static 변수의 활용.vcxproj", "{F34AA08B-B603-4055-89F7-DD857C991EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Debug|x64.ActiveCfg = Debug|x64
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Debug|x64.Build.0 = Debug|x64
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Debug|x86.Build.0 = Debug|Win32
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Release|x64.ActiveCfg = Release|x64
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Release|x64.Build.0 = Release|x64
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Release|x86.ActiveCfg = Release|Win32
+		{F34AA08B-B603-4055-89F7-DD857C991EDC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E44D0B4-7F4F-4C3B-A5F1-D3408BCD5290}
+	EndGlobalSection
+EndGlobal
